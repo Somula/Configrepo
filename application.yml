@@ -1,6 +1,2 @@
-spring:
-  application:
-      name:Config-Default
-
 eureka-employee.minimum=99
 eureka-employee.maximum=9999
